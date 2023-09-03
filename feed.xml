@@ -1,0 +1,47 @@
+<rss xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>My Demu Album</title>
+        <itunes:author>My Demu Band</itunes:author>
+        <description>This feed is an example template XML file for decentralized music (Demu) releases. It is designed for artists to replace this info with details from their own music project in order to make open-source, self-hosted v4v digital releases. This template is made available by the Wolf on a value-for-value basis for personal and commercial use. If you receive value from this template please consider raising the wolf's value split share, which is defaulted to "1" in the podcast:value tags below. As a v4v resource, it is acceptable to remove and customize the value splits for your own testing or trial purposes. However, if you do receive value from using this template and choose not to return that value, you run the risk of being exposed as a douchebag!</description>
+        <link>https://ableandthewolf.com</link>
+        <language>en</language>
+        <generator>Handcrafted from Demu Open Source Template v0.1.0</generator>
+        <pubDate>Sun, 03 Sep 2023 16:20:33 -0500</pubDate>
+        <lastBuildDate>Sun, 03 Sep 2023 16:20:33 -0500</lastBuildDate>
+        <podcast:locked owner="spencer@bowlafterbowl.com">no</podcast:locked>
+        <itunes:category text="Music" />
+        <itunes:category text="Technology" />
+        <podcast:location>The Free and Open Internet</podcast:location>
+        <managingEditor>spencer@bowlafterbowl.com</managingEditor>
+        <webMaster>spencer@bowlafterbowl.com</webMaster>
+        <image>
+            <url>https://pbs.twimg.com/profile_images/1566110862087278593/puLJTmxF_400x400.jpg</url>
+            <title>My Demu Album</title>
+            <link>https://ableandthewolf.com</link>
+            <description>Demu Emu on My Demu Album art</description>
+        </image>
+        <podcast:medium>music</podcast:medium>
+        <podcast:person href="https://twitter.com/demu_emu" img="https://pbs.twimg.com/profile_images/1566110862087278593/puLJTmxF_400x400.jpg" group="music" role="band">Demu Emu</podcast:person>
+        <podcast:person href="https://bowlafterbowl.com" img="https://ableandthewolf.com/static/media/spencer.9d14ce10e9cb3ccfba6b.jpg" group="writing" role="songwriter">SirSpencer</podcast:person>
+        <podcast:value type="lightning" method="keysend" suggested="0.000033333">
+            <podcast:valueRecipient name="My Band's Node Info" address="02f1962328552371769881a9f49c192c0df261f3e0bdf4cd68a4f6d449cc6fd4ad" split="98" type="node" />
+            <podcast:valueRecipient name="the Wolf" address="03ecb3ee55ba6324d40bea174de096dc9134cb35d990235723b37ae9b5c49f4f53" split="2" type="node" />
+        </podcast:value>
+        <item>
+            <title>Demu Anthem</title>
+            <description>Demu Anthem - Demu Emu</description>
+            <pubDate>Sun, 03 Sep 2023 16:20:33 -0500</pubDate>
+            <guid isPermaLink="false">3b77cf04-4256-42d4-804e-24df710d3d9b</guid>
+            <podcast:transcript url="https://ableandthewolf.com/static/media/lyrics/04_StayAwhile.srt" type="application/srt" />
+            <itunes:image href="https://pbs.twimg.com/profile_images/1566110862087278593/puLJTmxF_400x400.jpg" />
+            <enclosure url="https://ableandthewolf.com/static/media/music/04_StayAwhile.mp3" length="8146730" type="audio/mpeg"/>
+            <podcast:episode>1</podcast:episode>
+            <podcast:person href="https://twitter.com/demu_emu" img="https://pbs.twimg.com/profile_images/1566110862087278593/puLJTmxF_400x400.jpg" group="music" role="band">Demu Emu</podcast:person>
+            <podcast:person href="https://bowlafterbowl.com" img="https://ableandthewolf.com/static/media/spencer.9d14ce10e9cb3ccfba6b.jpg" group="writing" role="songwriter">SirSpencer</podcast:person>
+            <podcast:value type="lightning" method="keysend" suggested="0.000033333">
+                <podcast:valueRecipient name="Demu Emu" address="03ecb3ee55ba6324d40bea174de096dc9134cb35d990235723b37ae9b5c49f4f53" split="98" type="node" />
+                <podcast:valueRecipient name="the Wolf" address="03ecb3ee55ba6324d40bea174de096dc9134cb35d990235723b37ae9b5c49f4f53" split="2" type="node" />
+            </podcast:value> 
+        </item>
+    </channel>
+</rss>
