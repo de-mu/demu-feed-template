@@ -2,12 +2,12 @@
     <channel>
         <title>My Demu Album</title>
         <itunes:author>My Demu Band</itunes:author>
-        <description>This feed is an example template XML file for decentralized music (Demu) releases. It is designed for artists to replace this info with details from their own music project in order to make open-source, self-hosted v4v digital releases. This template is made available by the Wolf on a value-for-value basis for personal and commercial use. If you receive value from this template please consider raising the wolf's value split share, which is defaulted to "1" in the podcast:value tags below. As a v4v resource, it is acceptable to remove and customize the value splits for your own testing or trial purposes. However, if you do receive value from using this template and choose not to return that value, you run the risk of being exposed as a douchebag!</description>
+        <description>This feed is an example template XML file for decentralized music (Demu) releases. It is designed for artists to replace the file's contents with details from their own music project in order to make self-hosted value-for-value digital releases. This template is made available by the Wolf on a value-for-value basis for personal and commercial use. If you receive value from this template please consider raising the Wolf's value split share, which is defaulted to "1" in the podcast:value tags below. Since this is a v4v resource, it is acceptable to remove and/or customize the value splits for your own testing or trial purposes. However, if you do receive value from using this template and choose not to return that value, you run the risk of being exposed as a douchebag!</description>
         <link>https://ableandthewolf.com</link>
         <language>en</language>
-        <generator>Handcrafted from Demu Open Source Template v0.1.0</generator>
+        <generator>Handcrafted from Demu Open Source Template v0.1.1</generator>
         <pubDate>Sun, 03 Sep 2023 16:20:33 -0500</pubDate>
-        <lastBuildDate>Sun, 03 Sep 2023 16:20:33 -0500</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 00:20:33 -0500</lastBuildDate>
         <podcast:locked owner="spencer@bowlafterbowl.com">no</podcast:locked>
         <podcast:guid>21377651-b449-5585-ac5d-4b70f2ede0f6</podcast:guid>
         <itunes:category text="Music" />
